@@ -3,3 +3,5 @@ steps:
   args: 
   - run
   - --filename=samples/bookinfo/platform/kube/bookinfo.yaml
+  - --location=asia-northeast3-c
+  - --cluster=sample-cluster
